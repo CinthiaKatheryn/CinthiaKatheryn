@@ -8,31 +8,31 @@ Actualmente estoy fortaleciendo mi perfil en **Data Analytics, Business Intellig
 
 ## Sobre mí
 
-* 📊 Experiencia en análisis de información presupuestaria, reportes de gestión e indicadores.
-* 🏛️ Conocimiento en gestión pública, presupuesto público y seguimiento de ejecución.
-* 📈 Interés en proyectos de analítica, visualización de datos, calidad de datos y gobierno de datos.
-* 🧠 En aprendizaje continuo de herramientas modernas para análisis y gestión de información.
-* 🌙 Me interesa construir soluciones claras, útiles y bien documentadas.
+- 📊 Experiencia en análisis de información presupuestaria, reportes de gestión e indicadores.
+- 🏛️ Conocimiento en gestión pública, presupuesto público y seguimiento de ejecución.
+- 📈 Interés en proyectos de análisis, visualización de datos, calidad de datos y gobierno de datos.
+- 🧠 En aprendizaje continuo de herramientas modernas para análisis y gestión de información.
+- 🌙 Me interesa construir soluciones claras, útiles y bien documentadas.
 
 ---
 
 ## Herramientas y tecnologías
 
-* **Análisis de datos:** Excel, SQL, Python
-* **Business Intelligence:** Power BI
-* **Gestión de datos:** Data Quality, Data Lineage, Data Governance
-* **Documentación:** Markdown, GitHub
-* **Otros:** SPSS, R, herramientas de reporte y análisis estadístico
+- **Análisis de datos:** Excel, SQL, Python
+- **Business Intelligence:** Power BI
+- **Gestión de datos:** Data Quality, Data Lineage, Data Governance
+- **Documentación:** Markdown, GitHub
+- **Análisis estadístico:** SPSS, R, Minitab
 
 ---
 
 ## Temas que comparto en este espacio
 
-* 📌 Análisis de datos aplicado a la gestión pública
-* 📌 Presupuesto público y seguimiento de ejecución
-* 📌 Gobierno de datos y calidad de información
-* 📌 Visualización de datos y dashboards
-* 📌 Apuntes, resúmenes y comentarios técnicos
+- 📌 Análisis de datos aplicado a la gestión pública
+- 📌 Presupuesto público y seguimiento de ejecución
+- 📌 Gobierno de datos y calidad de información
+- 📌 Visualización de datos y dashboards
+- 📌 Apuntes, resúmenes y comentarios técnicos
 
 ---
 
@@ -40,11 +40,11 @@ Actualmente estoy fortaleciendo mi perfil en **Data Analytics, Business Intellig
 
 Próximamente compartiré proyectos relacionados con:
 
-* **Análisis presupuestal con Python**
-* **Consultas SQL para análisis de datos**
-* **Dashboards en Power BI**
-* **Notas sobre Gobierno de Datos**
-* **Documentación sobre Data Quality y Data Lineage**
+- **Análisis presupuestal con Python**
+- **Consultas SQL para análisis de datos**
+- **Dashboards en Power BI**
+- **Notas sobre Gobierno de Datos**
+- **Documentación sobre Data Quality y Data Lineage**
 
 ---
 
@@ -56,6 +56,5 @@ Seguir desarrollando un perfil orientado a **analítica de datos, inteligencia d
 
 ## Contacto
 
-* LinkedIn: https://www.linkedin.com/in/kath7192-/
-* Portafolio: [Próximamente]
-* Correo: cinthia.7192@gmail.com
+- LinkedIn: [Agregar enlace]
+- Portafolio: Próximamente
